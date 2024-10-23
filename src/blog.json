@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://i.ibb.co.com/m9spz4Z/image1.jpg",
+      "title": "Understanding JavaScript Closures",
+      "author": "John Doe",
+      "img": "https://i.ibb.co.com/rcyzrcm/author.jpg",
+      "posted_date": "2024-10-20",
+      "reading_time": "5 min",
+      "hashtag": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "coverImage": "https://i.ibb.co.com/m9spz4Z/image1.jpg",
+      "title": "Exploring the Power of Tailwind CSS",
+      "author": "Jane Smith",
+      "img": "https://i.ibb.co.com/rcyzrcm/author.jpg",
+      "postDate": "2024-10-18",
+      "readingTime": 7,
+      "hashtag": ["#TailwindCSS", "#Frontend", "#Design"]
+    },
+    {
+      "id": 3,
+      "coverImage": "https://i.ibb.co.com/m9spz4Z/image1.jpg",
+      "title": "A Beginner's Guide to React Hooks",
+      "author": "Alice Johnson",
+      "img": "https://i.ibb.co.com/rcyzrcm/author.jpg",
+      "postDate": "2024-10-15",
+      "readingTime": "6 min",
+      "hashtag": ["#React", "#Hooks", "#JavaScript"]
+    },
+    {
+      "id": 4,
+      "coverImage": "https://i.ibb.co.com/m9spz4Z/image1.jpg",
+      "title": "Mastering Git: Tips and Tricks",
+      "author": "Michael Brown",
+      "img": "https://i.ibb.co.com/rcyzrcm/author.jpg",
+      "postDate": "2024-10-10",
+      "readingTime": "8 min",
+      "hashtag": ["#Git", "#VersionControl", "#Programming"]
+    },
+    {
+      "id": 5,
+      "coverImage": "https://i.ibb.co.com/m9spz4Z/image1.jpg",
+      "title": "The Basics of Asynchronous Programming in JavaScript",
+      "author": "Emily Davis",
+      "img": "https://i.ibb.co.com/rcyzrcm/author.jpg",
+      "posteDate": "2024-10-05",
+      "readingTime": "10 min",
+      "hashtag": ["#Async", "#JavaScript", "#Coding"]
+    }
+  ]
+  
